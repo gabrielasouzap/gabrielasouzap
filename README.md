@@ -1,8 +1,8 @@
-## Hi!!! Eu sou a Gabriela Souza
+## Hi!!!  I am Gabriela Souza 😉
 
 
-- 🔭 Hoje sou estagiaria de infraestrutura
-- 🌱 Estudando Java
+- Currently an infrastructure intern 👩‍💻
+- Studying Java ☕
 
 ![gabrielasouzap's Stats](https://github-readme-stats.vercel.app/api?username=gabrielasouzap&theme=gotham&show_icons=true&hide_border=true&count_private=true) ![gabrielasouzap's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielasouzap&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 <div sttyle="display": inline_bock><br>
@@ -21,7 +21,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 
 ##
 <div>
-  <a href="www.linkedin.com/in/gabriela-souza-90a815261" target=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href="gabrielasoope@gmail.com" target=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="gabrielasoope@gmail.com" target=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
 
