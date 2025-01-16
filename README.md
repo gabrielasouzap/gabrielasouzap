@@ -1,8 +1,10 @@
 ## Hi!!!  I am Gabriela Souza 😉
 
+ - Graduated in Systems Analysis and Development👩‍💻
 
-- Currently an infrastructure intern 👩‍💻
-- Studying Java ☕
+ - Currently studying JAVA☕
+
+ - Seeking opportunities in infrastructure and full-stack software development🔍
 
 ![gabrielasouzap's Stats](https://github-readme-stats.vercel.app/api?username=gabrielasouzap&theme=gotham&show_icons=true&hide_border=true&count_private=true) ![gabrielasouzap's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielasouzap&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
