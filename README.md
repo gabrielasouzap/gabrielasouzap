@@ -6,6 +6,8 @@
 
  - Seeking opportunities in infrastructure or full-stack software development🔍
 
+- My email is: gabrielasoope@gmail.com 📩
+
 ![gabrielasouzap's Stats](https://github-readme-stats.vercel.app/api?username=gabrielasouzap&theme=gotham&show_icons=true&hide_border=true&count_private=true) ![gabrielasouzap's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielasouzap&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 ## Languages and Lechnologies: 
@@ -28,6 +30,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ygabrielasouzap/gabrielasouzap/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div>
-  <a href="gabrielasoope@gmail.com" target=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
