@@ -2,9 +2,9 @@
 
  - Graduated in Systems Analysis and Development👩‍💻
 
- - Currently studying JAVA and C#☕
+ - Currently studying PHP and C#☕
 
- - Seeking opportunities in infrastructure or full-stack software development🔍
+ - Seeking opportunities in full-stack software development🔍
 
 - My email is: gabrielasoope@gmail.com 📩
 
